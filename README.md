@@ -1,6 +1,6 @@
 # isparta [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url] [![No Maintenance Intended][unmaintained-image]][unmaintained-url]
 
-#### Currently deciding whether to fork and continue this lib as `isparta2` in light of the author abandoning the original project. (He did not appear interested in allowing others to contribute to the original repo and continue fixing issues).
+#### Nothing to see right now. Currently deciding whether or not to fork and continue this lib as `isparta2` in light of the author abandoning the original project. (He did not appear interested in allowing others to contribute to the original repo and continue fixing issues).
 
 > Isparta is a code coverage tool for ES6 using [babel](https://github.com/babel/babel).
 
