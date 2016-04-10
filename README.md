@@ -1,10 +1,12 @@
 # isparta [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url] [![No Maintenance Intended][unmaintained-image]][unmaintained-url]
 
+## Currently deciding whether to fork and continue this lib as `isparta2` in light of the author abandoning the original project. (He did not appear interested in allowing others to contribute to the original repo and continue fixing issues).
+
 > Isparta is a code coverage tool for ES6 using [babel](https://github.com/babel/babel).
 
 Its intention is to be used with [karma](http://karma-runner.github.io/) and [karma-coverage](https://github.com/karma-runner/karma-coverage), which provides code coverage reports using [istanbul](https://github.com/gotwarlost/istanbul).
 
-[CHANGELOG](https://github.com/douglasduteil/isparta/releases)
+[CHANGELOG](https://github.com/nathanmarks/isparta2/releases)
 
 ## Installation
 
@@ -75,7 +77,7 @@ coverageReporter: {
 
 [npm-url]: https://npmjs.org/package/isparta
 [npm-image]: http://img.shields.io/npm/v/isparta.svg
-[travis-url]: http://travis-ci.org/douglasduteil/isparta
-[travis-image]: http://travis-ci.org/douglasduteil/isparta.svg?branch=master
+[travis-url]: http://travis-ci.org/nathanmarks/isparta2
+[travis-image]: http://travis-ci.org/nathanmarks/isparta2.svg?branch=master
 [unmaintained-image]: http://unmaintained.tech/badge.svg
 [unmaintained-url]: http://unmaintained.tech

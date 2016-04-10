@@ -1,6 +1,6 @@
 {
-  "name": "isparta",
-  "version": "4.0.0",
+  "name": "isparta2",
+  "version": "4.0.1",
   "description": "A code coverage tool for ES6 (babel)",
   "main": "./lib/isparta",
   "files": [
@@ -23,17 +23,17 @@
   "bin": {
     "isparta": "./bin/isparta"
   },
-  "author": {
-    "name": "Douglas Duteil",
-    "email": "douglasduteil@gmail.com"
-  },
-  "homepage": "http://github.com/douglasduteil/isparta",
+  "authors": [
+    "Nathan Marks",
+    "Douglas Duteil"
+  ],
+  "homepage": "http://github.com/nathanmarks/isparta2",
   "bugs": {
-    "url": "http://github.com/douglasduteil/isparta/issues"
+    "url": "http://github.com/nathanmarks/isparta2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/douglasduteil/isparta.git"
+    "url": "git://github.com/nathanmarks/isparta2.git"
   },
   "license": "WTFPL",
   "dependencies": {
